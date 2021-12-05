@@ -1,0 +1,36 @@
+/*The CSS goes here*/
+/*Internal font*/
+@font-face {
+    font-family: face;
+    src: url();
+}
+
+/*CSS for the body of the page, amongst other stuff*/ 
+body {
+    background-color: black;
+}
+
+span {
+    border: white 1px solid;
+    background-color: chocolate;
+    font-style: magenta;
+}
+
+/*CSS related to the div*/
+.homeDiv {
+    border: 5px outset red;
+    background-color: yellow;
+}
+
+.links {
+    border: 5px outset red;
+    background-color: wheat;
+    align-content: center;
+}
+
+/*CSS related to styles*/
+li {
+    background-color: chocolate; 
+ }
+
+/*CSS related to navigation stuff*/
